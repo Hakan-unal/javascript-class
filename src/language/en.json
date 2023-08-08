@@ -1,0 +1,23 @@
+{
+    "title1": "Math, Date, String and Number Classes in JavaScript (With Samples)",
+    "title2": "Math",
+    "title3": "Date",
+    "title4": "String",
+    "title5": "Number",
+    "paragraph1": "JavaScript is a programming language specifically designed to make HTML pages more inreractive. By using JavaScript you can make your website more interesting and more functional.In addition, you can develop web, mobile and desktop application using many different libraries. It is prederred by almost all programmers because it is easier to learn JavaScript and write code than other languages. For this reason, JavaScript is one of the most used programming languages in the world. Creates the web infrastructure with HTML and CSS.",
+    "paragraph2": "There are 4 classes on JavaScript. These are the:",
+    "paragraph3": "Math",
+    "paragraph4": "Date",
+    "paragraph5": "String",
+    "paragraph6": "Number",
+    "paragraph7": "The class used in mathematical operations in JavaScript is Math. Using the methods in the math class, you can easily perform operations such as square root and absolute value. Below you can find samples of many methods of the Math class:",
+    "paragraph8": "The Date class is used to handle date and time. It is quite difficult to do date operations directly in JavaScript. So, you may need to write very complex codes. For this reason, many libraries have been developed for date and time operations. Some of these libraries are as follows:",
+    "paragraph9": "Moment.js",
+    "paragraph10": "Date.js",
+    "paragraph11": "XDate.js",
+    "paragraph12": "Below you can find samples of many methods of the Date class:",
+    "paragraph13": "We don't need any classes to use the String class properties. We can apply it directly to any object whose data type is string.",
+    "paragraph14": "Below you can find samples of many methods of the Date class:",
+    "paragraph15": "Number properties and methods; provides some operations about numerical values",
+    "paragraph16": "You can find common properties and methods of numerical values ​​below:"
+}
